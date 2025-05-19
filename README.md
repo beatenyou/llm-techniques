@@ -24,7 +24,7 @@ Enter this in the command prompt in the Projects folder
 `cd llm-techniques`
 ### Part 2. Install Anaconda environment
 1. **Install Anaconda**
-  * Download Anaconda from [https://docs.anaconda.com/anaconda/install/windows/]
+  * Download Anaconda from https://docs.anaconda.com/anaconda/install/windows/
 Run the installer and follow the prompts. Note that it takes up several GB and takes a while to install, but it will be a powerful platform for future use.
 2. **Setup the enviornment**
   * Open **Anaconda Prompt**
@@ -37,6 +37,6 @@ You should see `(llms)` in your prompt, which indicates you've activated your ne
   * In the Anaconda Prompt, from within the `llm_techniques` folder, type: `jupyter lab`
 Jupyter Lab should open up in a browser
 **Alternative**
-* 1. Install Python 3.11 [https://www.python.org/downloads/]
+* 1. Install Python 3.11 https://www.python.org/downloads/
 * 2. Navigate to the "project root directory" by entering something like `cd C:\Users\YourUsername\Documents\Projects\llm_techniques` using the actual path to the llm_techniques project root directory.
   3. Then, create a new virtual environment with this command: `python -m venv llms`
