@@ -18,3 +18,6 @@ Replacing YourUsername with your actual Windows user
 If you don't have a projects folder, you can create one:
 ``mkdir C:\Users\YourUsername\Documents\Projects
    cd C:\Users\YourUsername\Documents\Projects``
+4. **Clone the repository**
+Enter this in the command prompt in the Projects folder
+`git clone https://github.com/ed-donner/llm_engineering.git`
