@@ -1,6 +1,6 @@
 # LLM Techniques
 
-## Implementation of LLM techniques from - mastering LLM engineering course
+## LLM techniques from - mastering LLM engineering course
 
 ### Part 1. Clone the Repo
 Local copy of the code
