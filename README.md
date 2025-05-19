@@ -1,2 +1,4 @@
-# llm-techniques
-Implementation of LLM techniques for - mastering LLM engineering course
+# LLM Techniques
+----------------
+## Implementation of LLM techniques from - mastering LLM engineering course
+----------------------
