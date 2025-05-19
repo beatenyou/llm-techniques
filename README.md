@@ -28,7 +28,7 @@ Enter this in the command prompt in the Projects folder
   * Download Anaconda from https://docs.anaconda.com/anaconda/install/windows/
 Run the installer and follow the prompts. Note that it takes up several GB and takes a while to install, but it will be a powerful platform for future use.
 2. **Setup the enviornment**
-  * Open **Anaconda Prompt**
+Open **Anaconda Prompt**
   * Navigate to the "project root directory" by entering something like `cd C:\Users\YourUsername\Documents\Projects\llm_techniques` using the actual path to the llm_techniques project root directory.
   * Create the environment: `conda env create -f environment.yml`
   * Wait for a few minutes for all packages to be installed
