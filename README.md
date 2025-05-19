@@ -36,7 +36,7 @@ You should see `(llms)` in your prompt, which indicates you've activated your ne
 3. **Start Jupyter Lab**
   * In the Anaconda Prompt, from within the `llm_techniques` folder, type: `jupyter lab`
 Jupyter Lab should open up in a browser
-* **Alternative**
+**Alternative**
 * 1. Install Python 3.11 [https://www.python.org/downloads/]
 * 2. Navigate to the "project root directory" by entering something like `cd C:\Users\YourUsername\Documents\Projects\llm_techniques` using the actual path to the llm_techniques project root directory.
   3. Then, create a new virtual environment with this command: `python -m venv llms`
