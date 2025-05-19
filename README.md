@@ -16,7 +16,7 @@ If you have a specific folder for projects, navigate to it using the cd command.
 Replacing YourUsername with your actual Windows user
 
 If you don't have a projects folder, you can create one:
-``mkdir C:\Users\YourUsername\Documents\Projects
+``mkdir C:\Users\YourUsername\Documents\Projects\n
    cd C:\Users\YourUsername\Documents\Projects``
    
 4. **Clone the repository**
