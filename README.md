@@ -4,6 +4,7 @@
 This repository takes a clear, hands-on approach for learning LLM and Agent development, breaking down advanced techniques into straightforward, understandable implementations. The scripts are modified exercises devliverables from Ed Donner's LLM Engineering course https://github.com/ed-donner/llm_engineering
 
 My goal is simple: provide code that is readable, modifiable, and educational.
+<img src="https://github.com/beatenyou/llm-techniques/blob/main/voyage.png" />
 
 ### Part 1. Clone the Repo
 Local copy of the code
