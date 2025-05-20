@@ -1,5 +1,9 @@
 # LLM Techniques
-<img src="https://github.com/beatenyou/llm-techniques/blob/main/voyage.png" />
+<img src="https://github.com/beatenyou/llm-techniques/blob/main/voyage.png" 
+        alt="Picture" 
+        width="800" 
+        height="600" 
+        style="display: block; margin: 0 auto" />
 
 ## LLM techniques from - mastering LLM engineering course
 This repository takes a clear, hands-on approach for learning LLM and Agent development, breaking down advanced techniques into straightforward, understandable implementations. The scripts are modified exercises devliverables from Ed Donner's LLM Engineering course https://github.com/ed-donner/llm_engineering
