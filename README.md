@@ -7,6 +7,11 @@ This repository takes a clear, hands-on approach for learning LLM and Agent deve
 
 My goal is simple: provide code that is readable, modifiable, and educational.
 
+| Notebook                                      | Description                                                                                                                                                         |
+| :-------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [1. Website Summarizer](1_website-summary-ollama-selenium.ipynb)           | A website summarizer using selenium and Ollama models.                                                                                 |
+| [2. Multi-language Brochure](2_website-brochuer-GPT-multi-language.ipynb) | A company marketing brochure (multi-language) using beautiful soup and OpenAI models.                                                   |
+
 ### 1) Basics
 1. **Install Git** (if not already install) https://git-scm.com/download/win
    * Run the installer and follow the prompts, using default options
